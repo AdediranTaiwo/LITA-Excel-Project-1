@@ -1,6 +1,6 @@
 # LITA-Excel-Project-1
 
-## Project Title: Sales Performance Analysis Foe a Retail Store Using Microsoft Excel.
+## Project Title: Sales Performance Analysis For a Retail Store Using Microsoft Excel.
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
