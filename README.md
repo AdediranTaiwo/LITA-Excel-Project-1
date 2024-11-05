@@ -46,5 +46,8 @@ Exploratory Data Analysis involved the exploring of the Data to answer some ques
   After cleaning the file, another column was created to calculate the Total Sales and the formula used in calculating it is Quantity* unit price. Double clicking on the first result gave me the results for the other columns. I then proceed to calculating the average sales for each of the products.
 
 ### Data Visualization
+```
+PIVOT TABLE FOR SALES DATA PROJECT.xlsx
+```
 
 
