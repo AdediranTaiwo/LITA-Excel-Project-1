@@ -19,3 +19,12 @@ The primary source of the Data used in his project is a sales Data of a retail s
   1. For Data Cleaning
   2. Data Analyxing
   3. Data Calculation using Pivot Tables
+
+### Data Analysis 
+#### Steps in acquaring my results: 
+- Exploration of the available data
+- Cleaning the data for effective analysis by removing the duplicates.
+- Duplicates are removed by selecting the data range with the headers and clicking "Data" at the tool bar then move the cursur to " Remove Duplicate"
+- selecting "All" option or specific column and clicking "ok"
+
+  After cleaning the file, another column was created to calculate the Total Sales and the formula used in calculating it is Quantity* unit price. Double clicking on the first result gave me the results for the other columns. I then proceed to calculating the average sales for each of the products.
