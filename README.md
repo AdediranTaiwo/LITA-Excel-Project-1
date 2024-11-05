@@ -8,3 +8,9 @@ This project aims at analysing the sales performance of a retail store. Explorin
 ### Data Sources
 
 The primary source of the Data used in his project is a sales Data of a retail store
+
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. Data Analyxing
+  3. Data Calculation using Pivot Tables
