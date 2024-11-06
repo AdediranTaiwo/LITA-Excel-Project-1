@@ -47,10 +47,23 @@ Exploratory Data Analysis involved the exploring of the Data to answer some ques
 
   After cleaning the file, another column was created to calculate the Total Sales and the formula used in calculating it is Quantity* unit price. Double clicking on the first result gave me the results for the other columns. I then proceed to calculating the average sales for each of the products.
 
+### Results
+
+AVERAGE SALES PER PRODUCTS
+
+- Average sales for shirts 326.5636
+- Average sales for shoes  308.6965
+- Average Sales for hat    158.8122
+- Average  Sales for socks 121.8228
+- Average sales for jacket  139.9395
+- Average sales for Gloves  200.0674
+
 ### Data Visualization
 ```
 PIVOT TABLE FOR SALES DATA PROJECT.xlsx
 ```
+
+
 ## Excel Project 2 (Customer Data)
 
 ### ABSTRACT
